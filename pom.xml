@@ -14,7 +14,7 @@
         <elasticsearch.version>1.7.1</elasticsearch.version>
         <commonslang.version>2.6</commonslang.version>
         <springjdbc.version>4.1.5.RELEASE</springjdbc.version>
-        <jackson.version>2.5.3</jackson.version>
+        <jackson.version>2.12.1</jackson.version>
         <jodatime.version>2.3</jodatime.version>
         <log4j.version>2.1</log4j.version>
         <mysql-connector.version>5.1.35</mysql-connector.version>
